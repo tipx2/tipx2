@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tipx2
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m not looking to collaborate on not-diepio
+- 🌱 I’m currently learning python, godot, java and a few others
 - 📫 How to reach me: Speakers#8563 on discord (only if you absolutely have to)
 
 <!---
